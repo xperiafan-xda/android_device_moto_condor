@@ -15,3 +15,5 @@
 #
 
 add_lunch_combo aosp_condor-userdebug
+add_lunch_combo liquid_condor-userdebug
+add_lunch_combo carbon_condor-userdebug
