@@ -16,4 +16,6 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_condor.mk \
+    $(LOCAL_DIR)/liquid.mk \
+    $(LOCAL_DIR)/carbon.mk \
     $(LOCAL_DIR)/full_condor.mk
